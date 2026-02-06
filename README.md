@@ -242,6 +242,24 @@ Image/video files placed in the same directory when required
 Academic learning
 Understanding Computer Vision fundamentals
 Practical implementation of image and video processing
+
+
+### NLP
+This repository contains basic Natural Language Processing (NLP) code examples applied on a CSV dataset (data.csv).
+ # What’s included
+Text loading from dataset
+Named Entity Recognition (NER)
+Text Summarization
+Sentiment Analysis (VADER)
+# Libraries Used
+Python
+pandas
+spaCy
+nltk
+transformers
+# Dataset
+File: data.csv
+
 ## 👩‍💻 Author
 
 Shruthi
