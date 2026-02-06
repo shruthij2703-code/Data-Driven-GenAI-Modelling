@@ -192,7 +192,56 @@ python random_forest.py
 * Practice machine learning fundamentals
 
 ---
+# Computer Vision
+# Overview
 
+This folder contains Python programs demonstrating core Computer Vision techniques using OpenCV.
+The implementations focus on image processing, video processing, drawing operations, color detection, and face detection/recognition through real-time and static inputs.
+
+# Technologies Used
+
+Python
+
+OpenCV (cv2)
+
+NumPy
+
+# Folder Contents
+# 1) Image Processing
+Image loading, saving, and basic manipulation
+Background color modification
+Color identification in images
+# 2)Drawing Operations
+Drawing circles, lines, rectangles
+Pattern generation using OpenCV
+# 3)Text Handling
+Displaying text on images
+Adding text overlays to videos
+# 4)Video & Camera Processing
+Webcam video capture
+Video recording with text
+Processing downloaded videos
+# 5)Face Detection & Recognition
+Face detection in images
+Real-time face detection using webcam
+Face data collection
+# 6)Machine Learning Integration
+Teachable Machine model usage for classification
+## How to Execute
+# Install required libraries:
+pip install opencv-python numpy
+# Run any Python file:
+python filename.py
+# Example:
+python face_detection_camera.py
+# Requirements
+Webcam (for camera-based programs)
+Image/video files placed in the same directory when required
+# Purpose
+## This project is designed for:
+Academic learning
+Understanding Computer Vision fundamentals
+Practical implementation of image and video processing
 ## 👩‍💻 Author
 
 Shruthi
@@ -203,12 +252,3 @@ Shruthi
 
 This project is created for educational and learning purposes only.
 
-## 👩‍💻 Author
-
-Shruthi
-
----
-
-## 📄 License
-
-This project i
